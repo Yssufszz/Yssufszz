@@ -8,8 +8,11 @@
 
 ## Kenalin, Saya Yusuf!
 
-Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sama ngoding sering banyak bug tapi gapapa ehe. Ooo iya program-program yang saya buat juga ga sepenuhnya sendiri ada bantuan dari beberapa sumber kayak dari video Youtube, liat kode orang dan ada bantuan dari AI. So jadi ga pure murni buatan gua juga karena masih belajar buat benerin eror dan bug juga masih ngandelin dari AI karena kalo udah stuck ya ujung-ujungnya lari kesana wkwk.
-
+Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sama ngoding sering banyak bug tapi gapapa ehe. Ooo iya program-program yang saya buat juga ga sepenuhnya sendiri ada bantuan dari beberapa sumber kayak dari video Youtube, liat kode orang dan ada bantuan dari AI. So jadi ga pure murni buatan gua juga karena masih belajar buat benerin eror dan bug juga masih ngandelin dari AI karena kalo udah stuck ya ujung-ujungnya lari kesana wkwk. Dan ya masih baru di Github ini jadi jangan di senggol ya masih pemula baru terjun banget ini.
+<p align="center">
+<img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" alt="Ngulik Program" />
+</p>
+  
 ---
 
 ##  Tech Yang Saya Pakai Nih
