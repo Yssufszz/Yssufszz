@@ -80,20 +80,25 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
 
 ---
 
-## 📫 Hubungi Saya
+## 📱 Kontak Saya
 
 <p align="center">
   <a href="mailto:youremail@example.com">
-    <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="50" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" width="50" 
+      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a href="https://www.linkedin.com/in/yssufszz/">
-    <img src="https://media.giphy.com/media/l2JehtQyTOZXzmiHq/giphy.gif" width="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="50"
+      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a href="https://twitter.com/Yssufszz">
-    <img src="https://media.giphy.com/media/XreQmk7P6LhjVxC8Ew/giphy.gif" width="50" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="50"
+      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a href="https://wa.me/yourphonenumber">
-    <img src="https://media.giphy.com/media/l0Ex2tEvP8SzkHFUQ/giphy.gif" width="50" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2384B24E?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" width="50"
+      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
 
