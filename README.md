@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Halo+Gua+Yusuf%21;Welcome+to+my+profile%21" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3D31B8&background=C204FF00&width=435&lines=Yoo+Welcome+Saya+Yusuf;Welcome+di+profile+github+saya;Enjoy+Broo!!)](https://git.io/typing-svg)
 
 ---
 
