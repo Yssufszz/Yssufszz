@@ -62,7 +62,7 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
 ---
 
 <p align="center">
-<img src="yssufszz.svg" width="250" alt="yssfsz" />
+  <img src="https://raw.githubusercontent.com/Yssufszz/Yssufszz/refs/heads/master/yssufszz.svg" width="250" alt="yssufszz" />
 </p>
 
 ## Ini Hobi Saya wkwk
