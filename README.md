@@ -79,7 +79,9 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
 </p>
 
 ---
-
+## 🎵 My Favorite Playlist
+[![Spotify](https://i.scdn.co/image/ab67616d0000b273b3a3b7a69c5d7d48b9b6d3a7)](https://open.spotify.com/playlist/6jzeXAcm6vxvBC0xESnq26?si=GJ0QBhCaQUejNYywXVzOjw)
+---
 ## 📱 Kontak Saya
 
 <p align="center">
