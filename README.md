@@ -58,17 +58,18 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   </tr>
 </table>
 
-
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yssufszz/Yssufszz/refs/heads/master/yssufszz.svg" width="100%" alt="yssufszz" />
 </p>
 
-## Ini Hobi Saya wkwk
-
-<p align="center"> <img src="https://media.giphy.com/media/ox97F7iVUsdzZxGG6A/giphy.gif" width="250" alt="Mobile Legends" /> <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" alt="Ngulik Program" /> <img src="https://media.giphy.com/media/3oFzmcm8XnFcdyv3NS/giphy.gif" width="250" alt="Ngopi" /> </p>
-
 ---
 
+## Stats Github Saya
 
+<p> Masih Baru hehe </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yssufszz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yssufszz&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
