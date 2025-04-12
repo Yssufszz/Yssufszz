@@ -13,9 +13,19 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FCB454&center=true&vCenter=true&width=500&lines=Masih+Belajar+Bang.;" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" alt="Ngulik Program" />
+<img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" alt="Nangissd" />
 </p>
-  
+
+---
+
+## Stats Github Saya
+
+<p> Masih Baru hehe </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yssufszz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yssufszz&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
 ---
 
 ##  Tech Yang Saya Pakai Nih
@@ -62,16 +72,6 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yssufszz/Yssufszz/refs/heads/master/yssufszz.svg" width="100%" alt="yssufszz" />
-</p>
-
----
-
-## Stats Github Saya
-
-<p> Masih Baru hehe </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yssufszz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yssufszz&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
