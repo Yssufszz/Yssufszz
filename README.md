@@ -78,29 +78,17 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   <a href="https://yssfsz.netlify.app" target="_blank">Klik di sini kalo mau liat website personal saya</a>
 </p>
 
----
-## 🎵 My Favorite Playlist
-
-[![Spotify](https://i.scdn.co/image/ab67616d0000b273b3a3b7a69c5d7d48b9b6d3a7)](https://open.spotify.com/playlist/6jzeXAcm6vxvBC0xESnq26?si=GJ0QBhCaQUejNYywXVzOjw)
-
-
----
-## 📱 Kontak Saya
-
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ysuf2303@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yssufszz/">
+  <a href="[https://www.linkedin.com/in/yssufszz/](https://www.linkedin.com/in/yusuf-s-004752258 )">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Yssufszz">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://wa.me/yourphonenumber">
+  <a href="https://wa.me/6285723494016">
     <img src="https://img.shields.io/badge/WhatsApp-%2384B24E?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://instagram.com/Yssufszz">
+  <a href="https://instagram.com/yssufsz">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
