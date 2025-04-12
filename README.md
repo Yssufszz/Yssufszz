@@ -84,20 +84,19 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
 
 <p align="center">
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" width="50" 
-      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yssufszz/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="50"
-      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Yssufszz">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="50"
-      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://wa.me/yourphonenumber">
-    <img src="https://img.shields.io/badge/WhatsApp-%2384B24E?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" width="50"
-      onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2384B24E?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/Yssufszz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
