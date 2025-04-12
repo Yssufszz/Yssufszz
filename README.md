@@ -49,6 +49,32 @@ Mau ngobrol atau kolaborasi? Langsung aja!
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/62xxxxxxxxxx)
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Halo%2C+gue+Yusuf!;Welcome+to+my+coding+zone!;Enjoy+the+ride+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" />
+</p>
+
+<h3 align="center">✨ Ngoding sambil ngopi ☕, biar error gak terlalu pedih ✨</h3>
+
+---
+
+## 👾 Sedikit Tentang Gue
+
+```ascii
+   ▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+ ▄▀▀░░░░░░░░░░░░░░░░▀▀▄
+ █░░░░░░░░░░░░░░░░░░░░█   ➤ Nama: Yusuf Simangunsong
+ █░░░░░░░░░░░░░░░░░░░░█   ➤ Anak TI yang doyan ngulik
+ █░░░░░░░░░░░░░░░░░░░░█   ➤ Fokus: Web dev, Android dev
+ █░░░░░░░░░░░░░░░░░░░░█   ➤ Hobi: Ngoding, desain UI, ngopi
+ ▀▄░░░░░░░░░░░░░░░░░░▄▀
+   ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
+
 
 > “Ngoding tuh bukan cuma soal nulis kode, tapi nulis masa depan 💻✨”
 
