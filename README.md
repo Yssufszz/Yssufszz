@@ -99,6 +99,6 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F3B2&center=true&vCenter=true&width=440&height=30&lines=ThankU+Udah+Mampir+Ya;Jangan+Lupa+Ngudud+Ngopi+Juga;See+you+soon+Broku+👋" alt="outro" />
 </p>
 
-> *"Santuy aja, error itu bagian dari perjalanan, tapi kalo eror terus udah mending login maen moba ANJAZ."*  
+> *"Santuy aja, error itu bagian dari perjalanan, tapi kalo eror terus udah mending login maen moba yagesya ANJAZ."*  
 > — CUPssz Si Tukang Console.log()
 
