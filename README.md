@@ -93,4 +93,12 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F3B2&center=true&vCenter=true&width=440&height=30&lines=ThankU+Udah+Mampir+Ya;Jangan+Lupa+Ngudud+Ngopi+Juga+Biar+Sans+Bro;See+you+soon+Broku+👋" alt="outro" />
+</p>
+
+> *"Santuy aja, error itu bagian dari perjalanan ANJAZ."*  
+> — CUPssz Si Tukang Console.log()
 
