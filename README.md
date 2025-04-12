@@ -74,4 +74,7 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yssufszz&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-[Klik di sini untuk lihat website personal saya](https://yssfsz.netlify.app)
+<p align="center">
+  <a href="https://yssfsz.netlify.app" target="_blank">Klik di sini kalo mau liat website personal saya</a>
+</p>
+
