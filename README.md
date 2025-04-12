@@ -10,6 +10,9 @@
 
 Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sama ngoding sering banyak bug tapi gapapa ehe. Ooo iya program-program yang saya buat juga ga sepenuhnya sendiri ada bantuan dari beberapa sumber kayak dari video Youtube, liat kode orang dan ada bantuan dari AI. So jadi ga pure murni buatan gua juga karena masih belajar buat benerin eror dan bug juga masih ngandelin dari AI karena kalo udah stuck ya ujung-ujungnya lari kesana wkwk. Dan ya masih baru di Github ini jadi jangan di senggol ya masih pemula baru terjun banget ini.
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FCB454&center=true&vCenter=true&width=500&lines=Code+Dream+Repeat.;Always+Learning.;Making+VibnY+Chat+🔥;" alt="Typing SVG" />
+</p>
+<p align="center">
 <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="250" alt="Ngulik Program" />
 </p>
   
