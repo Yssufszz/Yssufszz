@@ -82,7 +82,7 @@ Saya **Yusuf Simangunsong**, seorang mahasiswa kupu-kupu doyan ngopi, ngegame sa
   <a href="mailto:ysuf2303@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/yssufszz/](https://www.linkedin.com/in/yusuf-s-004752258 )">
+  <a href="https://www.linkedin.com/in/yusuf-s-004752258">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/6285723494016">
